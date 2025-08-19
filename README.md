@@ -1,1 +1,1 @@
-Implementación del juego de amigo secreto para Alura Latamm.
+Implementación del juego de amigo secreto para Alura Latam.
